@@ -8,9 +8,6 @@ This repository contains a simple and modern login page built using **Jetpack Co
 - Eye icon toggle for password visibility
 - Material Design components
 
-## 🖼️ Screenshots
-_Add screenshots here_
-
 ## 🚀 Getting Started
 
 Clone the repository:
